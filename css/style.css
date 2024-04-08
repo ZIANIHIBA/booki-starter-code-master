@@ -201,10 +201,6 @@ padding-top: 5px;
 .hebergements {
     width: 65%;  
 }
-.hebergements article{
-    display:flex;
-    flex-direction: column;
-}
    .carte{
     width: 31%;
     background-color: white;
